@@ -68,7 +68,7 @@ product-order-api/
 # <----------  ⚙️ Installation & Setup ---------->
 
 # 1. Clone the repository
-git clone https://github.com/your-username/product-order-api.git
+git clone : (https://github.com/VishakhaBhoyar/Product-Order-Management.git)
 
 # 2. Navigate to the project directory
 cd product-order-api
